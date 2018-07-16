@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrImage</string>
+    <string name="no_result">No Image with Searched Item.</string>
+    <string name="enter_item">Enter query to search</string>
+    <string name="toolbar_title">          Search Flickr Image</string>
+    <string name="search_item">Enter query to Search Image</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
